@@ -50,3 +50,37 @@ h1 {
   width: 80%;
   padding: 5%;
 }
+.mit-class {
+  width: 90%;
+  display: flex;
+  margin-left: 5%;
+  margin-top: 10%;
+  margin-bottom: 5%;
+  border-radius: 15px;
+  box-shadow: 10px 10px 40px gray;
+}
+.dive-one {
+  width: 33.3%;
+  margin-left: 20%;
+}
+.dive-two {
+  width: 33.3%;
+}
+.dive-three {
+  width: 33.3%;
+}
+.over-all-class {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(28, 31, 31);
+}
+#org-color {
+  color: orange;
+}
+.rcp-color {
+  color: cadetblue;
+}
+.p-color {
+  color: aliceblue;
+}
