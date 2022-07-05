@@ -34,3 +34,19 @@ h1 {
 .flexiable-container .img-with {
   width: 50%;
 }
+.position-class {
+  text-align: center;
+}
+
+.exprience-item {
+  width: 40%;
+  margin-left: 5%;
+  margin-right: 5%;
+  padding-left: 10px;
+  border-radius: 10px;
+  box-shadow: 10px 10px 40px gray;
+}
+.exprience-item img {
+  width: 80%;
+  padding: 5%;
+}
